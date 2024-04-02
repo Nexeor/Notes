@@ -1,0 +1,11 @@
+- New Factory:
+	- Set up logistics/construction bot network
+	- Rebuild red/green/blue/grey science
+	- Rebuild Mall
+		- Combine trains + logistics
+		- Build tier 2/3 belts
+	- Rebuild fluids with circuits 
+- Set up flamethrower turrets
+- Uranium Power 
+- Build new coal mine
+- Set up trains for fast ore transport
