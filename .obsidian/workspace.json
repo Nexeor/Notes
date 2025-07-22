@@ -11,19 +11,9 @@
             "id": "92b548223559f0b7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "34e571143410deda",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "The Brain/LeetCode 322 - Coin Change.md",
+                "file": "Notes/Leetcode Problems/LeetCode 322 - Coin Change.md",
                 "mode": "source",
                 "source": false
               },
@@ -173,7 +163,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46fc8a2f1495e7bb",
+  "active": "92b548223559f0b7",
   "lastOpenFiles": [
     "Tags/AWS.md",
     "The Brain/LeetCode 55 - Jump Game.md",
