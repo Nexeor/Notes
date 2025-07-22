@@ -6,7 +6,7 @@ Tags: #Python #React #Flask #WebDev
 
 # Python Flask with React
 
-The Python [[Flask API's]] framework can be used as a backend [[CRUD API]] used to service a [[React]] frontend
+The Python [[Flask]] framework can be used as a backend [[CRUD API]] used to service a [[React]] frontend
 ## Setup
 1) Create a "frontend" and "backend" folder
 2) `npm create vite@latest my-react-app frontend -- --template react`
@@ -47,7 +47,7 @@ app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 db = SQLAlchemy(app)
 ```
 - This config file sets up:
-	- Initial [[Flask API's]] setup
+	- Initial [[Flask]] setup
 	- [[SQLAlchemy]] to be used as an [[ORM]]
 	- [[CORS]] allows for origin sharing between Flask and React (frontend and backend on two different servers)
 3) Models.py: Create models according to [[SQLAlchemy#Models in Flask-SQLAlchemy|Flask-SQLAlchemy Models]]

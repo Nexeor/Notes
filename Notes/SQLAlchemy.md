@@ -11,7 +11,7 @@ Two Major Components:
 - Low level API allows you to work directly with the database using Python
 - An [[ORM]] maps database tables directly to Python objects
 
-When using SQLAlchemy with [[Flask API's]], the [[Flask-SQLAlchemy]] extension for Flask changes the syntax to make using SQLAlchemy better suited for the web
+When using SQLAlchemy with [[Flask]], the [[Flask-SQLAlchemy]] extension for Flask changes the syntax to make using SQLAlchemy better suited for the web
 - See syntax in [[Flask-SQLAlchemy]]
 ## Features:
 - *Database Abstraction*: Supports multiple database types, such as PostgreSQL, MySQL, SQLite
