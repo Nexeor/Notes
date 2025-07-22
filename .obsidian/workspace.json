@@ -4,35 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "63712e4a756afeef",
+        "id": "74e5bb9ccc65874e",
         "type": "tabs",
         "children": [
           {
-            "id": "f25814480a488031",
+            "id": "92b548223559f0b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "File Systems.md",
+                "file": "The Brain/LeetCode 91 - Decode Ways.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "LeetCode 91 - Decode Ways"
             }
           },
           {
-            "id": "22cd46b768f86df7",
+            "id": "34e571143410deda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Buffer Cache.md",
+                "file": "The Brain/LeetCode 322 - Coin Change.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "LeetCode 322 - Coin Change"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,8 +54,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Buffer Cache.md",
+                "file": "The Brain/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for React"
             }
           },
           {
@@ -115,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Buffer Cache.md",
+                "file": "The Brain/Flask-SQLAlchemy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Flask-SQLAlchemy"
             }
           },
           {
@@ -129,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Buffer Cache.md"
-              }
+                "file": "The Brain/Flask-SQLAlchemy.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Flask-SQLAlchemy"
             }
           }
         ]
@@ -159,24 +177,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22cd46b768f86df7",
+  "active": "46fc8a2f1495e7bb",
   "lastOpenFiles": [
-    "File Systems.md",
-    "Pasted image 20240402135240.png",
-    "Pasted image 20240402132418.png",
-    "Buffer Cache.md",
-    "Coding/Working With Python Lists.md",
-    "Coding/Leetcode 1, Contains Duplicate.md",
-    "Daily Notes/2023-12-23.md",
-    "Daily Notes/2023-12-20.md",
-    "Daily Notes/2023-12-28.md",
-    "Daily Notes/Untitled 1.md",
-    "FLASK.md",
-    "Linkedin.md",
-    "Untitled 1.md",
-    "Markdown Cheatsheet.md",
-    "Factorio To-Do.md",
-    "Return of the Lazy Dungeon Master.md",
+    "Tags/AWS.md",
+    "The Brain/LeetCode 55 - Jump Game.md",
+    "The Brain/LeetCode Dashboard.md",
+    "The Brain/LeetCode 322 - Coin Change.md",
+    "The Brain/LeetCode 91 - Decode Ways.md",
+    "The Brain/LeetCode 213 - House Robber II.md",
+    "The Brain/LeetCode 5 - Longest Palindromic Substring.md",
+    "The Brain/LeetCode 647 - Palindromic Substrings.md",
+    "The Brain/LeetCode 198 - House Robber.md",
+    "The Brain/LeetCode 53 - Maximum Subarray.md",
+    "The Brain/LeetCode 1899 - Merge Triplets to Form Target Triplet.md",
+    "The Brain/LeetCode 763 - Partition Labels.md",
+    "The Brain/().md",
+    "The Brain/Contains Duplicate.md",
+    "The Brain/TIARA Framework.md",
+    "The Brain/2025-07-01.md",
+    "The Brain/Two Sum.md",
+    "The Brain/Valid Anagram.md",
+    "The Brain/LeetCode 55) Jump Game.md",
+    "The Brain/Helldivers Inspired Board Game - Design Doc.md",
+    "The Brain/2025-06-06.md",
+    "Coding/Flask API's.md",
+    "The Brain/Arkham Sealed Deckbuilder Design Doc.md",
+    "The Brain/Arkham Browser Design.md",
+    "The Brain/HTTP.md",
+    "School/Buffer Cache.md",
+    "Pictures/Pasted image 20250402164337.png",
+    "Pictures/Pasted image 20250402164335.png",
+    "Pictures/Pasted image 20250402164250.png",
+    "Pictures/Pasted image 20250402164104.png",
+    "Pictures/Pasted image 20250402163438.png",
+    "Pictures/Pasted image 20250402163358.png",
+    "Pictures/Pasted image 20250402163325.png",
+    "Pictures/Pasted image 20250402163231.png",
+    "Pictures/Pasted image 20250402162947.png",
+    "Pictures/Pasted image 20250402162914.png",
+    "The Brain",
+    "Untitled 4",
+    "Templates",
+    "Indexes",
+    "Tags",
+    "Source Material",
+    "School",
+    "Pictures",
     "Coding",
     "Daily Notes"
   ]

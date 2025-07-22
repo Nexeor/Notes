@@ -14,17 +14,17 @@
 |[Image](https://www.markdownguide.org/basic-syntax/#images-1)|`![alt text](image.jpg)`|
 
 ## Extended Syntax
-|Element|Markdown Syntax|
-|---|---|
-|[Table](https://www.markdownguide.org/extended-syntax/#tables)|`\| Syntax \| Description \|   \| ----------- \| ----------- \|   \| Header \| Title \|   \| Paragraph \| Text \|`|
-|[Fenced Code Block](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks)|` ```   {     "firstName": "John",     "lastName": "Smith",     "age": 25   }   ``` `|
-|[Footnote](https://www.markdownguide.org/extended-syntax/#footnotes)|`Here's a sentence with a footnote. [^1]      [^1]: This is the footnote.`|
-|[Heading ID](https://www.markdownguide.org/extended-syntax/#heading-ids)|`### My Great Heading {#custom-id}`|
-|[Definition List](https://www.markdownguide.org/extended-syntax/#definition-lists)|`term   : definition`|
-|[Strikethrough](https://www.markdownguide.org/extended-syntax/#strikethrough)|`~~The world is flat.~~`|
-|[Task List](https://www.markdownguide.org/extended-syntax/#task-lists)|`- [x] Write the press release   - [ ] Update the website   - [ ] Contact the media`|
-|[Emoji](https://www.markdownguide.org/extended-syntax/#emoji)  <br>(see also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji))|`That is so funny! :joy:`|
-|[Highlight](https://www.markdownguide.org/extended-syntax/#highlight)|`I need to highlight these ==very important words==.`|
-|[Subscript](https://www.markdownguide.org/extended-syntax/#subscript)|`H~2~O`|
-|[Superscript](https://www.markdownguide.org/extended-syntax/#superscript)|`X^2^`|
+| Element                                                                                                                                                                             | Markdown Syntax                                                                                                    |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [Table](https://www.markdownguide.org/extended-syntax/#tables)                                                                                                                      | `\| Syntax \| Description \|   \| ----------- \| ----------- \|   \| Header \| Title \|   \| Paragraph \| Text \|` |
+| [Fenced Code Block](https://www.markdownguide.org/extended-syntax/#fenced-code-blocks)                                                                                              | ` ```   {     "firstName": "John",     "lastName": "Smith",     "age": 25   }   ``` `                              |
+| [Footnote](https://www.markdownguide.org/extended-syntax/#footnotes)                                                                                                                | `Here's a sentence with a footnote. [^1]      [^1]: This is the footnote.`                                         |
+| [Heading ID](https://www.markdownguide.org/extended-syntax/#heading-ids)                                                                                                            | `### My Great Heading {#custom-id}`                                                                                |
+| [Definition List](https://www.markdownguide.org/extended-syntax/#definition-lists)                                                                                                  | `term   : definition`                                                                                              |
+| [Strikethrough](https://www.markdownguide.org/extended-syntax/#strikethrough)                                                                                                       | `~~The world is flat.~~`                                                                                           |
+| [Task List](https://www.markdownguide.org/extended-syntax/#task-lists)                                                                                                              | `- [x] Write the press release   - [ ] Update the website   - [ ] Contact the media`                               |
+| [Emoji](https://www.markdownguide.org/extended-syntax/#emoji)  <br>(see also [Copying and Pasting Emoji](https://www.markdownguide.org/extended-syntax/#copying-and-pasting-emoji)) | `That is so funny! :joy:`                                                                                          |
+| [Highlight](https://www.markdownguide.org/extended-syntax/#highlight)                                                                                                               | `I need to highlight these ==very important words==.`                                                              |
+| [Subscript](https://www.markdownguide.org/extended-syntax/#subscript)                                                                                                               | `H~2~O`                                                                                                            |
+| [Superscript](https://www.markdownguide.org/extended-syntax/#superscript)                                                                                                           | `X^2^`                                                                                                             |
 	
