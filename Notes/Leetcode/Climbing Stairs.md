@@ -2,7 +2,7 @@
 
 Status: #Leaf
 
-Tags: #Algorithms #LeetCode #Dynamic-Programming
+Tags: #Algorithms #LeetCode #DynamicProgramming
 
 # Problem Name
 LeetCode: https://leetcode.com/problems/climbing-stairs/description/

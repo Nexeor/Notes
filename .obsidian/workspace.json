@@ -8,49 +8,76 @@
         "type": "tabs",
         "children": [
           {
-            "id": "73dde6992fe78069",
+            "id": "932b7d50f859b642",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Leetcode/LeetCode 1 - Two Sum.md",
+                "file": "Notes/Leetcode/LeetCode Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LeetCode 1 - Two Sum"
+              "title": "LeetCode Dashboard"
             }
           },
           {
-            "id": "4a83518bd290fd40",
+            "id": "33c0fd38be2751e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Leetcode Template.md",
+                "file": "LeetCode 128 - Longest Consecutive Sequence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Leetcode Template"
+              "title": "LeetCode 128 - Longest Consecutive Sequence"
             }
           },
           {
-            "id": "9583453b21fd6c9e",
+            "id": "8aceda3f34443152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Leetcode/LeetCode 347 - Top K Frequent Elements.md",
+                "file": "LeetCode 36 - Valid Sudoku.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LeetCode 347 - Top K Frequent Elements"
+              "title": "LeetCode 36 - Valid Sudoku"
+            }
+          },
+          {
+            "id": "76a58d1f29d817f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/LeetCode 238 - Product of Array Except Itself.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LeetCode 238 - Product of Array Except Itself"
+            }
+          },
+          {
+            "id": "d0b3d0f9092701ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/LeetCode 217 - Encode and Decode Strings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LeetCode 217 - Encode and Decode Strings"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "089e590b7185ffa0",
@@ -192,36 +220,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46fc8a2f1495e7bb",
+  "active": "932b7d50f859b642",
   "lastOpenFiles": [
-    "The Brain/LeetCode Dashboard.md",
+    "LeetCode 128 - Longest Consecutive Sequence.md",
+    "Notes/Leetcode/LeetCode Dashboard.md",
+    "LeetCode 36 - Valid Sudoku.md",
+    "Coding/LeetCode 238 - Product of Array Except Itself.md",
+    "Coding/LeetCode 217 - Encode and Decode Strings.md",
+    "Notes/Leetcode/LeetCode 347 - Top K Frequent Elements.md",
+    "Pictures/Pasted image 20250723154951.png",
+    "Notes/Leetcode/Dynamic Programming.md",
+    "LeetCode 152 - Maximum Product Subarray.md",
+    "Notes/Leetcode/Climbing Stairs.md",
+    "Notes/Leetcode/LeetCode 198 - House Robber.md",
     "Templates/Leetcode Template.md",
+    "Notes/Leetcode/LeetCode 1 - Two Sum.md",
+    "Notes/Life/The 2-Hour Job Search.md",
+    "Notes/Life/TIARA Framework.md",
+    "Notes/Life/Linkedin.md",
+    "Notes/Life",
+    "The Brain/LeetCode Dashboard.md",
     "Notes/Software Engineering/Flask-Login.md",
     "Notes/Software Engineering/Flask Mega Tutorial Notes.md",
     "Notes/Software Engineering/Flask-SQLAlchemy.md",
     "Coding/Flask.md",
     "Notes/Software Engineering/SQLAlchemy.md",
-    "Notes/Leetcode/Dynamic Programming.md",
     "The Brain/2025-07-23.md",
-    "Notes/Leetcode/LeetCode Dashboard.md",
-    "Notes/Leetcode/LeetCode 347 - Top K Frequent Elements.md",
-    "Notes/Leetcode/LeetCode 1 - Two Sum.md",
     "Notes/Leetcode/LeetCode 49 - Group Anagrams.md",
     "Notes/Leetcode/LeetCode 242 - Valid Anagram.md",
     "Notes/Leetcode/LeetCode 322 - Coin Change.md",
     "Notes/Leetcode/LeetCode 763 - Partition Labels.md",
-    "Notes/Leetcode/LeetCode 1899 - Merge Triplets to Form Target Triplet.md",
-    "Notes/Leetcode/LeetCode 217 - Contains Duplicate.md",
-    "Templates/Full Note.md",
-    "Notes/Leetcode/LeetCode 198 - House Robber.md",
-    "Notes/Leetcode Problems/LeetCode 322 - Coin Change.md",
     "The Brain",
     "Pictures/Pasted image 20250611144151.png",
-    "Notes/Software Engineering/Werkzeug.md",
-    "Notes/Software Engineering/useRef Hook.md",
-    "Notes/Software Engineering/SQL.md",
-    "Notes/Software Engineering/RESTful API's.md",
-    "Notes/Software Engineering/Relational Database.md",
     "Notes/Software Engineering",
     "Notes/Projects",
     "Notes/Leetcode",
@@ -235,10 +265,8 @@
     "Pictures/Pasted image 20250402163358.png",
     "Pictures/Pasted image 20250402163325.png",
     "Pictures/Pasted image 20250402163231.png",
-    "Pictures/Pasted image 20250402162947.png",
     "Untitled 4",
     "Templates",
-    "Indexes",
-    "Tags"
+    "Indexes"
   ]
 }

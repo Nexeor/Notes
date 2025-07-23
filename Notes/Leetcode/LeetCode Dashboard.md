@@ -6,17 +6,17 @@ Tags: #ProgrammingConcepts #LeetCode
 
 # LeetCode Dashboard
 ### Arrays & Hashing
-| Problem                                     | Difficulty | Solution                     |
-| ------------------------------------------- | ---------- | ---------------------------- |
-| [[LeetCode 217 - Contains Duplicate]]       | Easy       | Hashmap                      |
-| [[LeetCode 242 - Valid Anagram]]            | Easy       | Hashmap                      |
-| [[LeetCode 1 - Two Sum]]                    | Easy       | Hashmap                      |
-| [[LeetCode 49 - Group Anagrams]]            | Medium     | Hashmap                      |
-| [[LeetCode 347 - Top K Frequent Elements]]  | Medium     | Hashmap (bucketsort)         |
-| **271:** [[Encode and Decode Strings]]      | Medium     | String meta-data and parsing |
-| **238**: [[Product of Array Except Itself]] | Medium     | Prefix-Postfix               |
-| **36:** Valid Sudoku                        | Medium     | Hashing                      |
-| Longest Consecutive sequence                |            |                              |
+| Problem                                           | Difficulty | Solution             |
+| ------------------------------------------------- | ---------- | -------------------- |
+| [[LeetCode 217 - Contains Duplicate]]             | Easy       | Hashmap              |
+| [[LeetCode 242 - Valid Anagram]]                  | Easy       | Hashmap              |
+| [[LeetCode 1 - Two Sum]]                          | Easy       | Hashmap              |
+| [[LeetCode 49 - Group Anagrams]]                  | Medium     | Hashmap              |
+| [[LeetCode 347 - Top K Frequent Elements]]        | Medium     | Hashmap (bucketsort) |
+| [[LeetCode 217 - Encode and Decode Strings]]      | Medium     | Array slicing        |
+| [[LeetCode 238 - Product of Array Except Itself]] | Medium     | Prefix-Postfix array |
+| [[LeetCode 36 - Valid Sudoku]]                    | Medium     | Hashmap              |
+| [[LeetCode 128 - Longest Consecutive Sequence]]   | Medium     | Hashmap              |
 
 ### Greedy Algorithms
 | Problem                                                   | Difficulty | Solution                      |
