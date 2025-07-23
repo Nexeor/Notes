@@ -29,7 +29,6 @@ You may assume that you have an infinite number of each kind of coin.
 - `1 <= coins[i] <= 231 - 1`
 - `0 <= amount <= 104`
 ## Solution
-### Top Down Solution
 While a greedy approach looks possible, we actually cannot always choose the largest denomination that is smaller than the target because we don't know if the other smaller coins will sum with that one to form the result. As such, we have to do a decision tree. We start with the total amount, deduct each coin from it, and then repeat recursively on that new amount. We can *cache* the smallest result for each amount to only solve for each amount once. 
 1) Setup: Create an empty cache
 2) Recursive function: `calcChange(amount)`
@@ -66,34 +65,5 @@ class Solution:
         
         minCoins = calcChange(amount)
         return -1 if minCoins >= amount + 1 else minCoins
-```
-### Bottom Up Solution
-We can apply a true "bottom-up" solution as well to cut down on recursion. Instead of starting at `amount` and recursively working down, we start at `0` and iteratively solve each subproblem in `range(0, amount)`. 
-1) Setup: 
-	1) Create a `cache` array with size `amount + 1` and each element set to `amount + 1` (effectively max value)
-	2) Set base case `cache[0] = 0`
-		1) Always takes 0 coins to make 0 amount
-2) Iterate over range `(1, amount)`
-	1) Track the least number of coins seen so far for this `i` as `numCoins`
-	2) Iterate over each coin denomination:
-		1) If the coin denomination is smaller than current amount, see if `1 + cache[i - coin]` is smaller than `numCoins`
-	3) Set `cache[i] == numCoins` 
-3) Return `-1` if `cache[amount]` is greater than amount (no way to reach amount with given coins)
-4) Otherwise return `cache[amount]`
-**Analysis:**
-- **TC: O(len(coins) * amount)** - At each position in `range(0, amount)`, iterate over each coin
-- **SC: O(amount)** - Store results for range(0, amount + 1)
-```python
-class Solution:
-    def coinChange(self, coins: List[int], amount: int) -> int:
-        cache = [amount + 1] * (amount + 1)
-        cache[0] = 0
-        for i in range(1, amount + 1):
-            numCoins = cache[i]
-            for coin in coins:
-                if coin <= i:
-                    numCoins = min(numCoins, 1 + cache[i - coin])
-            cache[i] = numCoins
-        return -1 if cache[amount] >= amount + 1 else cache[amount]
 ```
 ## References
