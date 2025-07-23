@@ -8,16 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92b548223559f0b7",
+            "id": "73dde6992fe78069",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Leetcode/LeetCode 1 - Two Sum.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "LeetCode 1 - Two Sum"
+            }
+          },
+          {
+            "id": "4a83518bd290fd40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Leetcode Template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Leetcode Template"
+            }
+          },
+          {
+            "id": "9583453b21fd6c9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Leetcode/LeetCode 347 - Top K Frequent Elements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LeetCode 347 - Top K Frequent Elements"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,34 +192,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92b548223559f0b7",
+  "active": "46fc8a2f1495e7bb",
   "lastOpenFiles": [
-    "Tags/AWS.md",
-    "The Brain/LeetCode 55 - Jump Game.md",
     "The Brain/LeetCode Dashboard.md",
-    "The Brain/LeetCode 322 - Coin Change.md",
-    "The Brain/LeetCode 91 - Decode Ways.md",
-    "The Brain/LeetCode 213 - House Robber II.md",
-    "The Brain/LeetCode 5 - Longest Palindromic Substring.md",
-    "The Brain/LeetCode 647 - Palindromic Substrings.md",
-    "The Brain/LeetCode 198 - House Robber.md",
-    "The Brain/LeetCode 53 - Maximum Subarray.md",
-    "The Brain/LeetCode 1899 - Merge Triplets to Form Target Triplet.md",
-    "The Brain/LeetCode 763 - Partition Labels.md",
-    "The Brain/().md",
-    "The Brain/Contains Duplicate.md",
-    "The Brain/TIARA Framework.md",
-    "The Brain/2025-07-01.md",
-    "The Brain/Two Sum.md",
-    "The Brain/Valid Anagram.md",
-    "The Brain/LeetCode 55) Jump Game.md",
-    "The Brain/Helldivers Inspired Board Game - Design Doc.md",
-    "The Brain/2025-06-06.md",
-    "Coding/Flask API's.md",
-    "The Brain/Arkham Sealed Deckbuilder Design Doc.md",
-    "The Brain/Arkham Browser Design.md",
-    "The Brain/HTTP.md",
-    "School/Buffer Cache.md",
+    "Templates/Leetcode Template.md",
+    "Notes/Software Engineering/Flask-Login.md",
+    "Notes/Software Engineering/Flask Mega Tutorial Notes.md",
+    "Notes/Software Engineering/Flask-SQLAlchemy.md",
+    "Coding/Flask.md",
+    "Notes/Software Engineering/SQLAlchemy.md",
+    "Notes/Leetcode/Dynamic Programming.md",
+    "The Brain/2025-07-23.md",
+    "Notes/Leetcode/LeetCode Dashboard.md",
+    "Notes/Leetcode/LeetCode 347 - Top K Frequent Elements.md",
+    "Notes/Leetcode/LeetCode 1 - Two Sum.md",
+    "Notes/Leetcode/LeetCode 49 - Group Anagrams.md",
+    "Notes/Leetcode/LeetCode 242 - Valid Anagram.md",
+    "Notes/Leetcode/LeetCode 322 - Coin Change.md",
+    "Notes/Leetcode/LeetCode 763 - Partition Labels.md",
+    "Notes/Leetcode/LeetCode 1899 - Merge Triplets to Form Target Triplet.md",
+    "Notes/Leetcode/LeetCode 217 - Contains Duplicate.md",
+    "Templates/Full Note.md",
+    "Notes/Leetcode/LeetCode 198 - House Robber.md",
+    "Notes/Leetcode Problems/LeetCode 322 - Coin Change.md",
+    "The Brain",
+    "Pictures/Pasted image 20250611144151.png",
+    "Notes/Software Engineering/Werkzeug.md",
+    "Notes/Software Engineering/useRef Hook.md",
+    "Notes/Software Engineering/SQL.md",
+    "Notes/Software Engineering/RESTful API's.md",
+    "Notes/Software Engineering/Relational Database.md",
+    "Notes/Software Engineering",
+    "Notes/Projects",
+    "Notes/Leetcode",
+    "Notes/Gaming/MTG",
+    "Notes/Gaming",
     "Pictures/Pasted image 20250402164337.png",
     "Pictures/Pasted image 20250402164335.png",
     "Pictures/Pasted image 20250402164250.png",
@@ -196,16 +236,9 @@
     "Pictures/Pasted image 20250402163325.png",
     "Pictures/Pasted image 20250402163231.png",
     "Pictures/Pasted image 20250402162947.png",
-    "Pictures/Pasted image 20250402162914.png",
-    "The Brain",
     "Untitled 4",
     "Templates",
     "Indexes",
-    "Tags",
-    "Source Material",
-    "School",
-    "Pictures",
-    "Coding",
-    "Daily Notes"
+    "Tags"
   ]
 }

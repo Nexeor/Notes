@@ -179,8 +179,7 @@ def maximumProfit(self, n: int, prices: List[int]) -> int:
 	return mem[-1]
 ```
 
-This version begins by calculating the optimal cuts for a rod of length 1. Then it uses that to calculate the optimal cuts for a rod of length 2, and 
-so on. 
+This version begins by calculating the optimal cuts for a rod of length 1. Then it uses that to calculate the optimal cuts for a rod of length 2, and so on. 
 
 ### Example: Longest Common Subsequence
 #### Problem Definition:

@@ -1,31 +1,28 @@
-2024-11-20 17:18
+{{date}} {{time}}
 
-Status:
+Status: #Leaf
 
-Tags:
+Tags: #LeetCode 
 
-# Problem Name
-### Problem
-Problem description here
+# {{Title}}
+**LeetCode**:
+**GitHub**:
+## Problem
 
-#### Example 1:
+**Example 1:**
 - **Input:**
 - **Output:**
 - **Explanation:**
-#### Example 2:
+**Example 2:**
 - **Input:**
 - **Output:**
 - **Explanation:**
-#### Constraints:
+**Constraints:**
 - 
-### Solutions
-#### Solution 1
-Solution explanation
+## Solution
+**Analysis:**
+- **TC: O()**
+- **SC: O()**
 ```python
-solution here
 ```
-##### Analysis
-Complexity analysis
-- **TC:**
-- **SC**:
 ## References
