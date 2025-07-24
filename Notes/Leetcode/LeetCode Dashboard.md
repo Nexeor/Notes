@@ -13,11 +13,19 @@ Tags: #ProgrammingConcepts #LeetCode
 | [[LeetCode 1 - Two Sum]]                          | Easy       | Hashmap              |
 | [[LeetCode 49 - Group Anagrams]]                  | Medium     | Hashmap              |
 | [[LeetCode 347 - Top K Frequent Elements]]        | Medium     | Hashmap (bucketsort) |
-| [[LeetCode 217 - Encode and Decode Strings]]      | Medium     | Array slicing        |
+| [[LeetCode 271 - Encode and Decode Strings]]      | Medium     | Array slicing        |
 | [[LeetCode 238 - Product of Array Except Itself]] | Medium     | Prefix-Postfix array |
 | [[LeetCode 36 - Valid Sudoku]]                    | Medium     | Hashmap              |
 | [[LeetCode 128 - Longest Consecutive Sequence]]   | Medium     | Hashmap              |
-
+### Stacks
+| Problem                                             | Difficulty | Solution |
+| --------------------------------------------------- | ---------- | -------- |
+| [[LeetCode 20 - Valid Parentheses]]                 | Easy       | Stack    |
+| [[LeetCode 155 - Min Stack]]                        | Medium     | Stack    |
+| [[LeetCode 150 - Evaluate Reverse Polish Notation]] | Medium     | Stack    |
+| [[LeetCode 22 - Generate Parentheses]]              | Medium     | Stack    |
+| [[LeetCode 739 - Daily Temperatures]]               | Medium     | Stack    |
+|                                                     |            |          |
 ### Greedy Algorithms
 | Problem                                                   | Difficulty | Solution                      |
 | --------------------------------------------------------- | ---------- | ----------------------------- |
@@ -41,5 +49,6 @@ Tags: #ProgrammingConcepts #LeetCode
 | [[LeetCode 647 - Palindromic Substrings]]      | Medium     | Dynamic Programming/Two Pointers |
 | [[LeetCode 91 - Decode Ways]]                  | Medium     | Dynamic Programming              |
 | [[LeetCode 322 - Coin Change]]                 | Medium     | Dynamic Programming              |
+| [[LeetCode 139 - Word Break]]                  | Medium     | Dynamic Programming              |
 
 ## References

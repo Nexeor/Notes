@@ -4,7 +4,7 @@ Status: #Leaf
 
 Tags: #LeetCode #Arrays 
 
-# LeetCode 217 - Encode and Decode Strings
+# LeetCode 271- Encode and Decode Strings
 **LeetCode**: Premium
 **GitHub**: https://github.com/Nexeor/LeetCode/blob/main/arrays_and_hashing/encode_and_decode_strings.py
 ## Problem
