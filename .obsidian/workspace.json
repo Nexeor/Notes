@@ -4,115 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "a97503004d61126f",
+        "id": "74e5bb9ccc65874e",
         "type": "tabs",
         "children": [
           {
-            "id": "5165ca6e2177c4b5",
+            "id": "73dde6992fe78069",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Software Engineering/React.md",
+                "file": "Notes/Software Engineering/JavaScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React"
+              "title": "JavaScript"
             }
           },
           {
-            "id": "b00edea1514bdb8e",
+            "id": "4a83518bd290fd40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Software Engineering/React State.md",
+                "file": "Templates/Leetcode Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React State"
+              "title": "Leetcode Template"
             }
           },
           {
-            "id": "95066bd64afccf97",
+            "id": "9583453b21fd6c9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Software Engineering/React Forms.md",
+                "file": "Notes/Leetcode/LeetCode 347 - Top K Frequent Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React Forms"
-            }
-          },
-          {
-            "id": "ff4e7719e5c120e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Software Engineering/Making API Requests With Axios.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Making API Requests With Axios"
-            }
-          },
-          {
-            "id": "806800c9fbc75a6c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Projects/JSX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "JSX"
-            }
-          },
-          {
-            "id": "406a25100fcd4059",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Software Engineering/React State.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "React State"
-            }
-          },
-          {
-            "id": "234393c7096252c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Software Engineering/Making API Requests With Axios.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Making API Requests With Axios"
+              "title": "LeetCode 347 - Top K Frequent Elements"
             }
           }
         ]
@@ -147,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#React",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,8 +102,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,38 +191,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5165ca6e2177c4b5",
+  "active": "46fc8a2f1495e7bb",
   "lastOpenFiles": [
-    "Notes/Software Engineering/React State.md",
-    "Notes/Software Engineering/React.md",
-    "Notes/Software Engineering/useRef Hook.md",
-    "Notes/Software Engineering/React Forms.md",
-    "Notes/Software Engineering/Making API Requests With Axios.md",
-    "Notes/Software Engineering/React Component Fundamentals.md",
-    "Notes/College/React, MongoDB, and Express.md",
-    "Notes/Projects/JSX.md",
-    "JavaScript.md",
-    "Notes/Software Engineering/Optimistic vs Pessimistic Update.md",
-    "LeetCode 139 - Word Break.md",
-    "LeetCode 20 - Valid Parentheses.md",
-    "LeetCode 155 - Min Stack.md",
-    "LeetCode 150 - Evaluate Reverse Polish Notation.md",
-    "LeetCode 22 - Generate Parentheses.md",
-    "LeetCode 739 - Daily Temperatures.md",
-    "Notes/Leetcode/LeetCode Dashboard.md",
+    "Notes/Leetcode/LeetCode 20 - Valid Parentheses.md",
+    "Notes/Leetcode/LeetCode 1 - Two Sum.md",
     "Pictures/Pasted image 20250724150101.png",
     "Pictures/Pasted image 20250724145707.png",
+    "Pictures/Pasted image 20250723154951.png",
     "Notes/Software Engineering/LISP Grammar and Parsing.md",
-    "Notes/Leetcode/LeetCode 347 - Top K Frequent Elements.md",
-    "Coding/Working With Python Lists.md",
-    "Coding/Top K Frequent Elements.md",
-    "Notes/Leetcode/LeetCode 217 - Contains Duplicate.md",
-    "Coding/Leetcode 1, Contains Duplicate.md",
+    "Notes/Software Engineering/Flask.md",
+    "Notes/Software Engineering/Flask API's.md",
+    "Notes/Software Engineering/File Systems.md",
+    "Notes/Leetcode/LeetCode 36 - Valid Sudoku.md",
     "Notes/Leetcode/LeetCode 271 - Encode and Decode Strings.md",
     "Notes/Leetcode/LeetCode 238 - Product of Array Except Itself.md",
+    "Notes/Leetcode/LeetCode 152 - Maximum Product Subarray.md",
     "Notes/Leetcode/LeetCode 128 - Longest Consecutive Sequence.md",
-    "Pictures/Pasted image 20250723154951.png",
-    "Notes/Life",
+    "Notes/Leetcode/LeetCode 739 - Daily Temperatures.md",
+    "Notes/Leetcode/LeetCode 22 - Generate Parentheses.md",
+    "Notes/Leetcode/LeetCode 155 - Min Stack.md",
+    "Notes/Leetcode/LeetCode 150 - Evaluate Reverse Polish Notation.md",
+    "Notes/Leetcode/LeetCode 139 - Word Break.md",
+    "Notes/Software Engineering/JavaScript.md",
+    "Templates/Leetcode Template.md",
+    "The Brain/LeetCode Dashboard.md",
+    "Notes/Software Engineering/Flask-Login.md",
+    "Notes/Software Engineering/Flask Mega Tutorial Notes.md",
+    "Notes/Software Engineering/Flask-SQLAlchemy.md",
+    "Coding/Flask.md",
+    "Notes/Software Engineering/SQLAlchemy.md",
+    "Notes/Leetcode/Dynamic Programming.md",
+    "The Brain/2025-07-23.md",
     "The Brain",
     "Pictures/Pasted image 20250611144151.png",
     "Notes/Software Engineering",
@@ -305,6 +237,7 @@
     "Pictures/Pasted image 20250402163358.png",
     "Untitled 4",
     "Templates",
-    "Indexes"
+    "Indexes",
+    "Tags"
   ]
 }
