@@ -8,20 +8,25 @@ Tags: #React #WebDev #JavaScript
 **Components** are reusable bits of UI that can be updated live using JavaScript 
 - Each component is a [[JavaScript]] function that returns [[JSX]] markup
 	- [[JSX]] combines [[HTML]] with JavaScript functionality
-- Can be passed a **props** argument, that can be accessed within the function
-	- If this argument changes, React will update the component
+	- **[[JSX#JSX Expressions|JSX Expression]]:** JavaScript code embedded into JSX markup
+		- Used to pass data dynamically 
+		- Indicated by *curly braces*: `{ }`
+- Components can contain other components, allowing for complex layouts
+	- Referred to as **Parent** and **Child** components
+	- The `App` component is the topmost component and contains all other components
+	- **props:** Argument used to pass data from parent to child
+		- Passing different props will trigger the component to re-render
 
-This component prints a paragraph containing the "text" field inside the props variable
-- We use curly braces "{ }" to signify JavaScript code. This could be a variable or a function
+This component returns a paragraph element containing the `text` passed from `props`
 ```jsx
-function Item(props) {
+function Item(props) { 
 	return <p>{props.text}</p>
 }
 
 export default Item
 ```
 
-We can then import this component into a parent component (like App) where is can be pieced together with other components:
+We can then import this component into `app` as a child component
 ```jsx
 import Item from './Item'
 function App() {
@@ -30,8 +35,8 @@ function App() {
 
 export default App
 ```
-## Building Components
-[[Bootstrap]] is a open-source framework that provides CSS styles and JavaScript component templates to quickly build good-looking React applications. 
+## Using Bootstrap for Custom Components
+[[Bootstrap]] is an open-source framework that provides CSS styles and JavaScript component templates to quickly build good-looking React applications. 
 
 We can use Bootstrap to quickly build components by combining existing templates together. Once such template is the [list-group](https://getbootstrap.com/docs/5.3/components/list-group/). Visiting this link and finding the first HTML snippet we get this:
 ```html
